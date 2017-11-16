@@ -611,6 +611,7 @@ int main(int argc, char *argv[])
 	*/
 	//glutIdleFunc(&myIdle);
 
+
 	glEnable(GL_DEPTH_TEST);
 	glEnable(GL_TEXTURE_2D);    // 启用纹理  
 	texture_1 = load_texture("t1.bmp");  //加载纹理  

@@ -5,7 +5,9 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opengl_test", "opengl_test\opengl_test.vcxproj", "{85D6E311-C92D-4A1A-874B-216B19BCCF48}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gult窗口", "gult窗口\gult窗口.vcxproj", "{70BFAB3B-35D5-44C2-B74E-EB9F00AE7768}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "简单绘制", "gult窗口\gult窗口.vcxproj", "{70BFAB3B-35D5-44C2-B74E-EB9F00AE7768}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "加载3ds模型", "加载3ds模型\加载3ds模型.vcxproj", "{633E8414-B603-4F44-87C4-E34B20B86255}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{70BFAB3B-35D5-44C2-B74E-EB9F00AE7768}.Release|x64.Build.0 = Release|x64
 		{70BFAB3B-35D5-44C2-B74E-EB9F00AE7768}.Release|x86.ActiveCfg = Release|Win32
 		{70BFAB3B-35D5-44C2-B74E-EB9F00AE7768}.Release|x86.Build.0 = Release|Win32
+		{633E8414-B603-4F44-87C4-E34B20B86255}.Debug|x64.ActiveCfg = Debug|x64
+		{633E8414-B603-4F44-87C4-E34B20B86255}.Debug|x64.Build.0 = Debug|x64
+		{633E8414-B603-4F44-87C4-E34B20B86255}.Debug|x86.ActiveCfg = Debug|Win32
+		{633E8414-B603-4F44-87C4-E34B20B86255}.Debug|x86.Build.0 = Debug|Win32
+		{633E8414-B603-4F44-87C4-E34B20B86255}.Release|x64.ActiveCfg = Release|x64
+		{633E8414-B603-4F44-87C4-E34B20B86255}.Release|x64.Build.0 = Release|x64
+		{633E8414-B603-4F44-87C4-E34B20B86255}.Release|x86.ActiveCfg = Release|Win32
+		{633E8414-B603-4F44-87C4-E34B20B86255}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
